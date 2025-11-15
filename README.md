@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./assets/oh hi there.png" width="300" alt="welcome-image">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="180" alt="welcome">
 </div>
+
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm David Mejía</h1>
 
